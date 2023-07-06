@@ -1,0 +1,4 @@
+npm install firebase
+firebase login
+firebase init
+$env:GOOGLE_APPLICATION_CREDENTIALS="key.json"
